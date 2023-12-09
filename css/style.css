@@ -1,0 +1,10 @@
+ @media screen and (max-width:400px)  {
+     .kitchen{
+        margin-left:0px !important
+     }
+    .card-item{
+        margin-left: 0px !important;
+    }  
+    
+
+}
